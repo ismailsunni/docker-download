@@ -1,6 +1,6 @@
 # docker-download
 
-Just another way to download a file
+Just another way to download a file.
 
 ## How
 
@@ -27,3 +27,10 @@ Using Docker download:
 - Update the docker file, push to github, etc: 1-10 minutes.
 
 Total: ~18-28 minutes
+
+## Benefit
+
+- You don't need to make your laptop stay awake
+- Backup in the cloud
+- Share to other people easily
+- Geek enough
