@@ -39,3 +39,9 @@ Total: ~20-25 minutes
 - Backup in the cloud
 - Share to other people easily
 - Geek enough
+
+## REMEMBER
+
+> "With great power comes great responsibility"
+
+uncle Ben
