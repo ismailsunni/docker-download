@@ -19,14 +19,19 @@ Your internet is so slow to download a specific file from a specific website but
 
 Manually download MRO source code : ~90 minutes
 
+[](images/slow-download.jpeg)
+![Slow Download](images/slow-download.jpg)
+
 Using Docker download:
 
 - Docker hub build: ~15 minutes
+  ![Dockerhub Build](images/dockerhub-build.jpg)
 - Docker pull: ~2 minutes
-- Copy from docker container to local: ~1 minute (very fast)
-- Update the docker file, push to github, etc: 1-10 minutes.
+  ![Docker Pull Speed](images/docker-pull-speed.jpg)
+- Copy from docker container to local: <1 minute (very fast)
+- Update the docker file, push to github, etc: 1-5 minutes.
 
-Total: ~18-28 minutes
+Total: ~20-25 minutes
 
 ## Benefit
 
